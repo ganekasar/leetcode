@@ -95,3 +95,4 @@
 |114|[ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|4 ms|
 |115|[ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./solutions/115.%20Distinct%20Subsequences.cpp)|8 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|20 ms|
+|118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./solutions/118.%20Pascal's%20Triangle.cpp)|0 ms|
