@@ -23,3 +23,4 @@
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./solutions/22.%20Generate%20Parentheses.cpp)|12 ms|
 |23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)|24 ms|
+|24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./solutions/24.%20Swap%20Nodes%20in%20Pairs.cpp)|4 ms|
