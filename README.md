@@ -52,3 +52,4 @@
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./solutions/61.%20Rotate%20List.cpp)|8 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
 |63|[ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](./solutions/63.%20Unique%20Paths%20II.cpp)|0 ms|
+|64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./solutions/64.%20Minimum%20Path%20Sum.cpp)|12 ms|
