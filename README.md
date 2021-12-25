@@ -57,3 +57,4 @@
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[C++](./solutions/66.%20Plus%20One.cpp)|4 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./solutions/69.%20Sqrt(x).cpp)|0 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|4 ms|
+|71|[ Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](./solutions/71.%20Simplify%20Path.cpp)|8 ms|
