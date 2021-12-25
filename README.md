@@ -45,3 +45,4 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|44 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./solutions/50.%20Pow(x%2C%20n).cpp)|0 ms|
 |51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./solutions/51.%20N-Queens.cpp)|4 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|184 ms|
