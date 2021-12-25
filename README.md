@@ -70,3 +70,4 @@
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.cpp)|20 ms|
 |85|[ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](./solutions/85.%20Maximal%20Rectangle.cpp)|28 ms|
 |86|[ Partition List](https://leetcode.com/problems/partition-list/)|[C++](./solutions/86.%20Partition%20List.cpp)|4 ms|
+|87|[ Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](./solutions/87.%20Scramble%20String.cpp)|12 ms|
