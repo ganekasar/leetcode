@@ -93,3 +93,4 @@
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./solutions/112.%20Path%20Sum.cpp)|12 ms|
 |113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](./solutions/113.%20Path%20Sum%20II.cpp)|8 ms|
 |114|[ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|4 ms|
+|115|[ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./solutions/115.%20Distinct%20Subsequences.cpp)|8 ms|
