@@ -68,3 +68,4 @@
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|4 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|8 ms|
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.cpp)|20 ms|
+|85|[ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](./solutions/85.%20Maximal%20Rectangle.cpp)|28 ms|
