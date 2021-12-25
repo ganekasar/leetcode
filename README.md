@@ -9,3 +9,4 @@
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./solutions/5.%20Longest%20Palindromic%20Substring.cpp)|736 ms|
 |6|[ Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./solutions/6.%20Zigzag%20Conversion.cpp)|4 ms|
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./solutions/7.%20Reverse%20Integer.cpp)|0 ms|
+|8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./solutions/8.%20String%20to%20Integer%20(atoi).cpp)|0 ms|
