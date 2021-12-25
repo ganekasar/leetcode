@@ -38,3 +38,4 @@
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./solutions/39.%20Combination%20Sum.cpp)|8 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|152 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|8 ms|
+|43|[ Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](./solutions/43.%20Multiply%20Strings.cpp)|24 ms|
