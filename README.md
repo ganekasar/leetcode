@@ -8,3 +8,4 @@
 |4|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)|32 ms|
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./solutions/5.%20Longest%20Palindromic%20Substring.cpp)|736 ms|
 |6|[ Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./solutions/6.%20Zigzag%20Conversion.cpp)|4 ms|
+|7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./solutions/7.%20Reverse%20Integer.cpp)|0 ms|
