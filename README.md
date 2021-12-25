@@ -65,3 +65,4 @@
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|4 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[C++](./solutions/78.%20Subsets.cpp)|4 ms|
 |81|[ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](./solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)|8 ms|
+|82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|4 ms|
