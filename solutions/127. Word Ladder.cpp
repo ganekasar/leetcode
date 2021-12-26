@@ -43,9 +43,3 @@ public:
 ​
                     word[pos] = orig_char;
                 }
-            }
-        }
-​
-        return 0;
-    }
-};
