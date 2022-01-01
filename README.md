@@ -109,3 +109,4 @@
 |132|[ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[C++](./solutions/132.%20Palindrome%20Partitioning%20II.cpp)|28 ms|
 |133|[ Clone Graph](https://leetcode.com/problems/clone-graph/)|[C++](./solutions/133.%20Clone%20Graph.cpp)|8 ms|
 |135|[ Candy](https://leetcode.com/problems/candy/)|[C++](./solutions/135.%20Candy.cpp)|16 ms|
+|136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|20 ms|
