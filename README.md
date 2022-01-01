@@ -105,3 +105,4 @@
 |126|[ Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[C++](./solutions/126.%20Word%20Ladder%20II.cpp)|0 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./solutions/128.%20Longest%20Consecutive%20Sequence.cpp)|1588 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|4 ms|
+|131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./solutions/131.%20Palindrome%20Partitioning.cpp)|124 ms|
