@@ -112,3 +112,4 @@
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|20 ms|
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[C++](./solutions/139.%20Word%20Break.cpp)|4 ms|
 |140|[ Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](./solutions/140.%20Word%20Break%20II.cpp)|20 ms|
+|141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./solutions/141.%20Linked%20List%20Cycle.cpp)|8 ms|
